@@ -1,2 +1,2 @@
 # linhaTemp
-atividade para a disciplina de informatica e sociedade, linha do tempo dos computadores
+atividade para a disciplina de História e futuro da computação, linha do tempo dos computadores
